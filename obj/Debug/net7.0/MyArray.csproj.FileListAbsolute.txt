@@ -1,0 +1,15 @@
+C:\Users\rosario\Desktop\C#\MyArray\bin\Debug\net7.0\MyArray.deps.json
+C:\Users\rosario\Desktop\C#\MyArray\bin\Debug\net7.0\MyArray.dll
+C:\Users\rosario\Desktop\C#\MyArray\bin\Debug\net7.0\MyArray.pdb
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.csproj.AssemblyReference.cache
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.AssemblyInfoInputs.cache
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.AssemblyInfo.cs
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.dll
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\refint\MyArray.dll
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.pdb
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\ref\MyArray.dll
+C:\Users\rosario\Desktop\C#\MyArray\bin\Debug\net7.0\Numbers.dll
+C:\Users\rosario\Desktop\C#\MyArray\bin\Debug\net7.0\Numbers.pdb
+C:\Users\rosario\Desktop\C#\MyArray\obj\Debug\net7.0\MyArray.csproj.CopyComplete
